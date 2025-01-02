@@ -1,4 +1,4 @@
-# Assistente Financeiro Baseado em IA
+# 💰🤖 Assistente Financeiro Baseado em IA
 
 Este projeto utiliza a biblioteca LangChain para criar um assistente financeiro pessoal, capaz de responder perguntas relacionadas a finanças e investimentos. A aplicação integra ferramentas para realizar cálculos financeiros, buscar informações atualizadas na internet e fornecer respostas em português brasileiro.
 
@@ -33,7 +33,7 @@ Este projeto utiliza a biblioteca LangChain para criar um assistente financeiro 
    ```pip install langchain langchain-community langchain-openai```
 
 2. **Configure sua chave de API**:
-   Em `os.environ["YOUR_API_KEY"]` no código coloque sua chave api para carregar o OpenAI api. `Certifique-se de que sua chave não seja compartilhada publicamente.`
+   Em `os.environ["YOUR_API_KEY"]` no código coloque sua chave api para carregar o OpenAI api. **Certifique-se de que sua chave não seja compartilhada publicamente.**
 
 3. **Execute o script**: Salve o código fornecido como `assistente_financeiro.py` e execute-o:
    ```python assistente_financeiro.py```
