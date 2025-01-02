@@ -1,6 +1,6 @@
-# 💰🤖 Assistente Financeiro Baseado em IA
+# 💰🤖 Assistente Financeiro com IA
 
-Este projeto utiliza a biblioteca LangChain para criar um assistente financeiro pessoal, capaz de responder perguntas relacionadas a finanças e investimentos. A aplicação integra ferramentas para realizar cálculos financeiros, buscar informações atualizadas na internet e fornecer respostas em português brasileiro.
+Este projeto utiliza a biblioteca **LangChain** para criar um **assistente financeiro pessoal**, capaz de responder perguntas relacionadas a **finanças** e **investimentos**. A aplicação integra ferramentas para realizar **cálculos financeiros**, buscar informações atualizadas na internet e fornecer respostas em Português.
 
 ## 🚀 Funcionalidades
 
